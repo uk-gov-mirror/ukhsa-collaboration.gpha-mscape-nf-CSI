@@ -11,9 +11,9 @@ Clone repo and create environment:
 
 `git clone git@github.com:ukhsa-collaboration/gpha-mscape-nf-CSI.git`
 
-`conda env create –f assets/environment.yaml`
+`conda env create --file assets/environment.yaml`
 
-`conda activate taxaplease_2.4.2`
+`conda activate taxaplease`
 
 ## Inputs
 
